@@ -1,0 +1,16 @@
+C:\Users\tekeb\Desktop\Görsel Programlama\GriSeviyeliGoruntuler\GriSeviyeliGoruntuler\bin\Debug\net8.0-windows\GriSeviyeliGoruntuler.exe
+C:\Users\tekeb\Desktop\Görsel Programlama\GriSeviyeliGoruntuler\GriSeviyeliGoruntuler\bin\Debug\net8.0-windows\GriSeviyeliGoruntuler.deps.json
+C:\Users\tekeb\Desktop\Görsel Programlama\GriSeviyeliGoruntuler\GriSeviyeliGoruntuler\bin\Debug\net8.0-windows\GriSeviyeliGoruntuler.runtimeconfig.json
+C:\Users\tekeb\Desktop\Görsel Programlama\GriSeviyeliGoruntuler\GriSeviyeliGoruntuler\bin\Debug\net8.0-windows\GriSeviyeliGoruntuler.dll
+C:\Users\tekeb\Desktop\Görsel Programlama\GriSeviyeliGoruntuler\GriSeviyeliGoruntuler\bin\Debug\net8.0-windows\GriSeviyeliGoruntuler.pdb
+C:\Users\tekeb\Desktop\Görsel Programlama\GriSeviyeliGoruntuler\GriSeviyeliGoruntuler\obj\Debug\net8.0-windows\GriSeviyeliGoruntuler.Form1.resources
+C:\Users\tekeb\Desktop\Görsel Programlama\GriSeviyeliGoruntuler\GriSeviyeliGoruntuler\obj\Debug\net8.0-windows\GriSeviyeliGoruntuler.csproj.GenerateResource.cache
+C:\Users\tekeb\Desktop\Görsel Programlama\GriSeviyeliGoruntuler\GriSeviyeliGoruntuler\obj\Debug\net8.0-windows\GriSeviyeliGoruntuler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekeb\Desktop\Görsel Programlama\GriSeviyeliGoruntuler\GriSeviyeliGoruntuler\obj\Debug\net8.0-windows\GriSeviyeliGoruntuler.AssemblyInfoInputs.cache
+C:\Users\tekeb\Desktop\Görsel Programlama\GriSeviyeliGoruntuler\GriSeviyeliGoruntuler\obj\Debug\net8.0-windows\GriSeviyeliGoruntuler.AssemblyInfo.cs
+C:\Users\tekeb\Desktop\Görsel Programlama\GriSeviyeliGoruntuler\GriSeviyeliGoruntuler\obj\Debug\net8.0-windows\GriSeviyeliGoruntuler.csproj.CoreCompileInputs.cache
+C:\Users\tekeb\Desktop\Görsel Programlama\GriSeviyeliGoruntuler\GriSeviyeliGoruntuler\obj\Debug\net8.0-windows\GriSeviyeliGoruntuler.dll
+C:\Users\tekeb\Desktop\Görsel Programlama\GriSeviyeliGoruntuler\GriSeviyeliGoruntuler\obj\Debug\net8.0-windows\refint\GriSeviyeliGoruntuler.dll
+C:\Users\tekeb\Desktop\Görsel Programlama\GriSeviyeliGoruntuler\GriSeviyeliGoruntuler\obj\Debug\net8.0-windows\GriSeviyeliGoruntuler.pdb
+C:\Users\tekeb\Desktop\Görsel Programlama\GriSeviyeliGoruntuler\GriSeviyeliGoruntuler\obj\Debug\net8.0-windows\GriSeviyeliGoruntuler.genruntimeconfig.cache
+C:\Users\tekeb\Desktop\Görsel Programlama\GriSeviyeliGoruntuler\GriSeviyeliGoruntuler\obj\Debug\net8.0-windows\ref\GriSeviyeliGoruntuler.dll
